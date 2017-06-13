@@ -1,0 +1,5 @@
+1. Generate random DNA for K length.
+2. Generate random RNA for K length.
+3. Count DNA Nucleotides.
+4. Complement of DNA sequence
+5. Convert DNA to RNA
